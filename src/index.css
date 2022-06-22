@@ -1,0 +1,54 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+.navbar {
+  margin-top: 0px;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+  font-size: 30px;
+  display:block;
+}
+.navbar h1 {
+  color: #f1356d;
+}
+.navbar .links {
+  margin-left: auto;
+  
+}
+
+ 
+
+.navbar a {
+  margin-left: 16px;
+  text-decoration: none;
+  padding: 6px;
+}
+.navbar a:hover {
+  color: #f1356d;
+}
+.content {
+  max-width: 600px;
+  margin: 40px auto;
+  padding: 20px;
+}
+.Body{
+  font-size: 25px;
+  margin-top: 100px;
+  background-color: #282c34;
+  padding: 200px;
+  color:white;
+  font-family: Arial;
+  text-align: center;
+  bottom: 0;
+  left:0;
+  width: 100%;
+}
+.Footer{
+  font-size: 25px;
+  margin-top: 100px;
+  padding: 1rem;
+  text-align: center;
+  background-color: rgb(235, 195, 64);
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}
